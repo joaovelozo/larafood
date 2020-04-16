@@ -10,7 +10,7 @@
 
     <div class="card">
         <div class="card-header">
-            <h4> <a href="" class="btn btn-outline-success  text-rigth" >Novo Plano</a></h4>
+            <h4> <a href="{{ route('plans.create')}}" class="btn btn-outline-success  text-rigth" >Novo Plano</a></h4>
             
  
 
